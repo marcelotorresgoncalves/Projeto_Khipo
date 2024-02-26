@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/02/22 09:24:17.000.005,=C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/22 09:25:25.000.376,C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Delphi_TEx\View\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2024/02/22 09:25:25.000.376,C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Delphi_TEx\View\uFrmPrincipal.pas</Transaction>
+    <Transaction>2024/02/22 09:25:54.000.894,C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Delphi_TEx\View\Projeto_TEx.dproj</Transaction>
+    <Transaction>2024/02/22 09:30:40.000.834,=C:\Delphi_TEx\View\Unit1.pas</Transaction>
+    <Transaction>2024/02/22 09:31:44.000.776,C:\Delphi_TEx\View\Unit1.pas=C:\Delphi_TEx\View\udmConexao.pas</Transaction>
+    <Transaction>2024/02/22 09:31:44.000.776,C:\Delphi_TEx\View\Unit1.dfm=C:\Delphi_TEx\View\udmConexao.dfm</Transaction>
+    <Transaction>2024/02/22 09:39:22.000.193,C:\Delphi_TEx\View\udmConexao.pas=C:\Delphi_TEx\Dao\udmConexao.pas</Transaction>
+    <Transaction>2024/02/22 09:39:22.000.193,C:\Delphi_TEx\View\udmConexao.dfm=C:\Delphi_TEx\Dao\udmConexao.dfm</Transaction>
+    <Transaction>2024/02/22 10:08:35.000.222,=C:\Delphi_TEx\View\Unit1.pas</Transaction>
+    <Transaction>2024/02/22 10:09:08.000.288,=C:\Delphi_TEx\View\Unit1.pas</Transaction>
+    <Transaction>2024/02/22 10:17:56.000.509,C:\Delphi_TEx\View\Unit1.dfm=C:\Delphi_TEx\View\uFrmLogin.dfm</Transaction>
+    <Transaction>2024/02/22 10:17:56.000.509,C:\Delphi_TEx\View\Unit1.pas=C:\Delphi_TEx\View\uFrmLogin.pas</Transaction>
+    <Transaction>2024/02/22 11:20:02.000.358,=C:\Delphi_TEx\View\Unit1.pas</Transaction>
+    <Transaction>2024/02/22 11:48:04.000.841,C:\Delphi_TEx\View\Unit1.dfm=C:\Delphi_TEx\View\uFrmCadPessoa.dfm</Transaction>
+    <Transaction>2024/02/22 11:48:04.000.841,C:\Delphi_TEx\View\Unit1.pas=C:\Delphi_TEx\View\uFrmCadPessoa.pas</Transaction>
+    <Transaction>2024/02/22 12:52:42.000.453,=C:\Delphi_TEx\View\Unit1.pas</Transaction>
+    <Transaction>2024/02/22 16:06:23.000.933,=C:\Delphi_TEx\View\Unit1.pas</Transaction>
+    <Transaction>2024/02/22 16:10:52.000.774,C:\Delphi_TEx\View\Unit1.pas=C:\Delphi_TEx\Dao\uDmPessoa.pas</Transaction>
+    <Transaction>2024/02/22 16:10:52.000.774,C:\Delphi_TEx\View\Unit1.dfm=C:\Delphi_TEx\Dao\uDmPessoa.dfm</Transaction>
+    <Transaction>2024/02/22 16:51:04.000.168,=C:\Delphi_TEx\View\Unit1.pas</Transaction>
+    <Transaction>2024/02/22 16:51:32.000.968,C:\Delphi_TEx\View\Unit1.pas=C:\Delphi_TEx\Model\uPessoaModel.pas</Transaction>
+    <Transaction>2024/02/22 16:59:35.000.683,=C:\Delphi_TEx\View\Unit1.pas</Transaction>
+    <Transaction>2024/02/22 16:59:58.000.440,C:\Delphi_TEx\View\Unit1.pas=C:\Delphi_TEx\Controller\uPessoaController.pas</Transaction>
+    <Transaction>2024/02/23 09:30:49.000.527,=C:\Delphi_TEx\View\Unit1.pas</Transaction>
+    <Transaction>2024/02/23 09:34:46.000.763,C:\Delphi_TEx\View\ufrmPesqCEP.dfm=C:\Delphi_TEx\View\Unit1.dfm</Transaction>
+    <Transaction>2024/02/23 09:34:46.000.763,C:\Delphi_TEx\View\ufrmPesqCEP.pas=C:\Delphi_TEx\View\Unit1.pas</Transaction>
+    <Transaction>2024/02/23 10:17:39.000.858,=C:\Delphi_TEx\View\Unit1.pas</Transaction>
+    <Transaction>2024/02/23 10:18:52.000.954,C:\Delphi_TEx\Model\uCEP.pas=C:\Delphi_TEx\View\Unit1.pas</Transaction>
+    <Transaction>2024/02/24 09:27:27.000.143,C:\Delphi_Khipo\View\Projeto_TEx.dproj=C:\Delphi_Khipo\View\Projeto_Khipo.dproj</Transaction>
+    <Transaction>2024/02/24 09:27:49.000.295,C:\Delphi_Khipo\Model\uCEP.pas=</Transaction>
+    <Transaction>2024/02/24 09:28:16.000.662,C:\Delphi_Khipo\View\ufrmPesqCEP.pas=</Transaction>
+    <Transaction>2024/02/24 09:31:47.000.688,C:\Delphi_Khipo\View\uFrmCadPessoa.dfm=C:\Delphi_Khipo\View\uFrmCadProduto.dfm</Transaction>
+    <Transaction>2024/02/24 09:31:47.000.688,C:\Delphi_Khipo\View\uFrmCadPessoa.pas=C:\Delphi_Khipo\View\uFrmCadProduto.pas</Transaction>
+    <Transaction>2024/02/24 10:41:54.000.408,C:\Delphi_Khipo\Dao\uDmPessoa.dfm=C:\Delphi_Khipo\Dao\uDmProduto.dfm</Transaction>
+    <Transaction>2024/02/24 10:41:54.000.408,C:\Delphi_Khipo\Dao\uDmPessoa.pas=C:\Delphi_Khipo\Dao\uDmProduto.pas</Transaction>
+    <Transaction>2024/02/24 10:43:06.000.398,C:\Delphi_Khipo\Controller\uPessoaController.pas=C:\Delphi_Khipo\Controller\uProdutoController.pas</Transaction>
+    <Transaction>2024/02/24 10:43:34.000.280,C:\Delphi_Khipo\Model\uPessoaModel.pas=C:\Delphi_Khipo\Model\uProdutoModel.pas</Transaction>
+    <Transaction>2024/02/24 11:05:17.000.381,=C:\Delphi_Khipo\Model\uCEP.pas</Transaction>
+    <Transaction>2024/02/24 11:11:55.000.439,C:\Delphi_Khipo\Model\uCEP.pas=</Transaction>
+    <Transaction>2024/02/24 16:07:27.000.045,=C:\Delphi_Khipo\View\Unit1.pas</Transaction>
+    <Transaction>2024/02/24 16:10:52.000.647,C:\Delphi_Khipo\View\ufrmControleEstoque.dfm=C:\Delphi_Khipo\View\Unit1.dfm</Transaction>
+    <Transaction>2024/02/24 16:10:52.000.647,C:\Delphi_Khipo\View\ufrmControleEstoque.pas=C:\Delphi_Khipo\View\Unit1.pas</Transaction>
+    <Transaction>2024/02/24 21:27:31.000.805,=C:\Delphi_Khipo\View\Unit1.pas</Transaction>
+    <Transaction>2024/02/24 21:28:07.000.609,C:\Delphi_Khipo\Controller\uCripSenha.pas=C:\Delphi_Khipo\View\Unit1.pas</Transaction>
+    <Transaction>2024/02/24 21:32:42.000.116,C:\Delphi_Khipo\Controller\uCripTexto.pas=C:\Delphi_Khipo\Controller\uCripSenha.pas</Transaction>
+  </Transactions>
+</BorlandProject>
